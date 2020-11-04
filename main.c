@@ -20,5 +20,4 @@ printf("\n%d+%d=%d",a,b,sommer(a,b));
 printf("\n%d-%d=%d",a,b,soustraire(a,b));
 printf("\n%d/%d=%f",a,b,diviser(a,b));
 return(0);
-
 }
