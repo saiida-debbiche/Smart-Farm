@@ -1,0 +1,9 @@
+1 xxxx xxxx Masculin 0001 Soin 1 1 2020
+2 yyyy yyyy Masculin 123 Soin 3 3 1981
+3 cccc vvvv Masculin hhh Semer 1 1 2020
+4 hhh vvv Feminin cc Semer  1 1 2020
+5 aaaaa xxx Masculin xxx Occupation_machine  1 1 2020
+6 pppp iii Feminin gg Entretien   1 1 2020
+7 ccc wwww Feminin llll Recolter  1 1 2020
+8 ggggg fffff Feminin llll Occupation_machine  1 1 2020
+9 hlj gfr Masculin ggtre Planter  1 1 2020
